@@ -157,9 +157,3 @@ while hp > 0 and hunger < 100:
             print("mampf, mampf, hmmm das war gut")
         
 print("Game Over")
-            
-    
-    
-    
-    
-
